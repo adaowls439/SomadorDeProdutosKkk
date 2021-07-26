@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1627297314 source:d:\adaow\documentos\codeblock\somadordeprodutoskkk\somadordeprodutoskkk\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdbool.h>
+	"funcoes.h"
+
+1627297314 d:\adaow\documentos\codeblock\somadordeprodutoskkk\somadordeprodutoskkk\funcoes.h
+
